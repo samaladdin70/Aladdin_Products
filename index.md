@@ -23,7 +23,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](https://github.com/samaladdin70/Aladdin/tree/master/Radio-Stations) and ![Image](src)
+[Link](Radio-Stations) and ![Image](src)
 <a href-"Radio-Stations/index.html">Radio</a>
 ```
 
