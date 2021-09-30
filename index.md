@@ -10,7 +10,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 [MyRadio](Radio-Stations) This is my Radio
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-[MyRadio](Radio-Stations)
+[MyRadio](https://github.com/samaladdin70/Aladdin_Products/tree/main/Radio-Stations/)
 
 ```markdown
 Syntax highlighted code block
