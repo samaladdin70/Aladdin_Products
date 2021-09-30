@@ -3,7 +3,7 @@
 You can use the [editor on GitHub](https://github.com/samaladdin70/Aladdin_Products/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-[MyRadio](https://github.com/samaladdin70/Aladdin_Products/tree/main/Radio-Stations/index.html) My Own Radio
+[MyRadio](https://github.com/samaladdin70/Aladdin_Products/tree/main/Radio-Stations/) My Own Radio
 [MyRadio](https://samaladdin70.github.io/Aladdin_Products/Radio-Stations/) This is My Own Radio
 
 ### Markdown
