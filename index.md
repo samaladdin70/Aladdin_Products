@@ -7,7 +7,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 [MyRadio](https://samaladdin70.github.io/Aladdin_Products/Radio-Stations/) This is My Own Radio
 
 ### Markdown
-[MyRadio](Radio-Stations) This is my Radio
+[MyRadio](https://github.com/samaladdin70/Aladdin_Products/tree/main/Radio-Stations/) This is my Radio
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 [MyRadio](https://github.com/samaladdin70/Aladdin_Products/tree/main/Radio-Stations/)
